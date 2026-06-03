@@ -27,6 +27,8 @@ class Recipe:
                 return False
     
     def scale(self, ratio: float):
+        if ratio <= 0:
+            raise ValueError("Количество должно быть положительным")
         new_recipe = Recipe(self.title)
         for val in self.ingredients:
             new_quantity = val.quantity * ratio
