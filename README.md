@@ -24,7 +24,7 @@ cd HW2_Tarantsov_BBI2501
 
 # Устанавливаем нужные библиотеки (pytest)
 pip install -r requirements.txt
-
+```
 
 Источники: 
 Лямбда функции - https://skillbox.ru/media/code/chto-takoe-lyambda-funkcii-v-python-i-kak-ih-ispolzovat/
