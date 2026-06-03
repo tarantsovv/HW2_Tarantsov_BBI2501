@@ -26,6 +26,11 @@ cd HW2_Tarantsov_BBI2501
 pip install -r requirements.txt
 
 
+Источники: 
+Лямбда функции - https://skillbox.ru/media/code/chto-takoe-lyambda-funkcii-v-python-i-kak-ih-ispolzovat/
+
+Генераторы - https://skillbox.ru/media/code/generatory_python_chto_eto_takoe_i_zachem_oni_nuzhny/
+
 
 Автор: Таранцов Егор
 Группа: ББИ2501
