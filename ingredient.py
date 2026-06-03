@@ -1,7 +1,7 @@
 class Ingredient: 
     def __init__(self, name = "", quantity_default = 0.0, unit = ""):
         self.name = name
-        self._quantity = quantity_default
+        self.quantity = quantity_default
         self.unit = unit
 
     @property
